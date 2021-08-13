@@ -1,3 +1,6 @@
+// mam i tried  but it is showing error 
+
+
 var bg,snow,snowimg;
 
 
